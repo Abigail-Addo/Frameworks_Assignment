@@ -47,7 +47,6 @@ cleaning, visualization, and dashboard development.
 
 ```bash
 git clone https://github.com/Abigail-Addo/Frameworks_Assignment.git
-cd Frameworks_Assignment/app
 ```
 
 ### 2. Download the Dataset
