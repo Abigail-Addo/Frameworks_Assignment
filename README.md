@@ -46,7 +46,7 @@ cleaning, visualization, and dashboard development.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Frameworks_Assignment.git
+git clone https://github.com/Abigail-Addo/Frameworks_Assignment.git
 cd Frameworks_Assignment/app
 ```
 
